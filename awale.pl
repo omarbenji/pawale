@@ -2,7 +2,7 @@
 
 /* --- Specification ---
 
-Game state is defined by, twoo list
+Game state is defined by, two lists
 one for each player, ( x, y, ....)
 x, y represent the number of seeds by hole, there is six holes by player.
 Score is defined by how many seeds a player captured.
